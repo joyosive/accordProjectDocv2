@@ -30,7 +30,7 @@ function Home() {
                                                                                                     target="_self">Overview</a>
                                                     </div>
                                                     <div className="pluginWrapper buttonWrapper"><a className="button"
-                                                                                                    href="/docs/started-installation.html"
+                                                                                                    href="/docs/started-installation"
                                                                                                     target="_self">Getting
                                                         Started</a></div>
                                                     <div className="pluginWrapper buttonWrapper"><a className="button"
@@ -211,8 +211,8 @@ function Home() {
                             <div className="container paddingBottom paddingTop" id="try">
                                 <div className="wrapper">
                                     <div className="gridBlock">
-                                        <div
-                                            className="blockElement alignCenter imageAlignSide imageAlignRight twoByGridBlock">
+                                        <div 
+                                            className="blockElement alignCenter imageAlignSide imageAlignRight twoByGridBlock" id="try">
                                             <div className="blockContent">
                                                 <h2>
                                                     <div><span><p>Author <span className="strong">and Edit</span></p>

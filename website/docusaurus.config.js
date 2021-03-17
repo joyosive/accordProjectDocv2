@@ -86,7 +86,7 @@ module.exports={
     "hideableSidebar": true,
     "colorMode": {
       "defaultMode": 'light',
-      "disableSwitch": true,
+      "disableSwitch": false,
       "respectPrefersColorScheme": true,
     },
     "prism": {
@@ -140,7 +140,7 @@ module.exports={
           "label": "GitHub",
           "position": "right"
         },
-      ]
+      ],
     },
     "image": "img/docusaurus.png",
     footer: {
