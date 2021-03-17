@@ -44,7 +44,7 @@ function Footer() {
             <h5>Docs</h5>
             <ul>
               <li>
-                <a href={siteConfig["siteConfig"]["baseUrl"] + 'docs/' + 'accordproject'}>Overview</a>
+                <a href={siteConfig["siteConfig"]["baseUrl"] + 'docs/'}>Overview</a>
               </li>
               <li>
                 <a href={siteConfig["siteConfig"]["baseUrl"] + 'docs/' + 'started-installation'}>Getting Started</a>

@@ -51,36 +51,36 @@ function Home() {
                                     <div className="blockElement alignCenter threeByGridBlock">
                                         <div className="blockContent">
                                             <h2>
-                                                <div><span><p><a href="/docs/started-installation.html">
+                                                <div><span><p><a href="/docs/started-installation">
                                                     <img
                                                     src="/img/cicero-logo.svg" alt="Cicero"/></a></p>
 </span></div>
                                             </h2>
                                             <div><span><p>Create templates for human-readable and machine-executable contracts using Open Source <a
-                                                href="/docs/started-installation.html">Cicero</a>.</p>
+                                                href="/docs/started-installation">Cicero</a>.</p>
 </span></div>
                                         </div>
                                     </div>
                                     <div className="blockElement alignCenter threeByGridBlock">
                                         <div className="blockContent">
                                             <h2>
-                                                <div><span><p><a href="/docs/logic-ergo.html"><img
+                                                <div><span><p><a href="/docs/logic-ergo"><img
                                                     src="/img/ergo-logo.svg" alt="Ergo"/></a></p>
 </span></div>
                                             </h2>
                                             <div><span><p>Write executable business logic for legal contracts using the <a
-                                                href="/docs/logic-ergo.html">Ergo</a> domain-specific language.</p>
+                                                href="/docs/logic-ergo">Ergo</a> domain-specific language.</p>
 </span></div>
                                         </div>
                                     </div>
                                     <div className="blockElement alignCenter threeByGridBlock">
                                         <div className="blockContent">
                                             <h2>
-                                                <div><span><p><a href="/docs/model-concerto.html">Concerto</a></p>
+                                                <div><span><p><a href="/docs/model-concerto">Concerto</a></p>
 </span></div>
                                             </h2>
                                             <div><span><p>Model the data for your contracts in a platform neutral format with the <a
-                                                href="/docs/model-concerto.html">Concerto</a> schema language.</p>
+                                                href="/docs/model-concerto">Concerto</a> schema language.</p>
 </span></div>
                                         </div>
                                     </div>
