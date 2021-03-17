@@ -26,7 +26,7 @@ function Home() {
                                             <div className="promoRow">
                                                 <div className="pluginRowBlock">
                                                     <div className="pluginWrapper buttonWrapper"><a className="button"
-                                                                                                    href="/docs/accordproject.html"
+                                                                                                    href="/docs"
                                                                                                     target="_self">Overview</a>
                                                     </div>
                                                     <div className="pluginWrapper buttonWrapper"><a className="button"
