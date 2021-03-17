@@ -33,7 +33,7 @@ Alternatively, you can download the library directly by visiting the [GitHub Rep
 
 ### Install the Library
 
-Once cloned, you can set up the library for development by running the following commands inside your template library directory:
+Once cloned, you can set up the library for deaccordproject-template.mdvelopment by running the following commands inside your template library directory:
 
 ```bash
 lerna bootstrap
