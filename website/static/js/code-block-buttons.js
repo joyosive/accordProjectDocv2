@@ -38,7 +38,7 @@ window.addEventListener('load', function() {
 
   clipboard.on('success', function(event) {
     event.clearSelection();
-    const textEl = event.trigger.querySelector('.btnIcon__label');
+    const textEl = event.triger.querySelector('.btnIcon__label');
     textEl.textContent = 'Copied';
     setTimeout(function() {
       textEl.textContent = 'Copy';

@@ -6,4 +6,7 @@
   --ifm-color-primary-dark: #18213A;
   --ifm-color-primary-darker: #171F36;
   --ifm-color-primary-darkest: #131A2D;
+  --ifm-dropdown-background-color: #1b2540;
+  --ifm-dropdown-link-color: #fff;
+  --ifm-navbar-link-hover-color: #fff;  
 }

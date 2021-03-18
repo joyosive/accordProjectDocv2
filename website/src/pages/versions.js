@@ -42,7 +42,7 @@ function Versions() {
                                 <tr>
                                     <th>{latestVersion}</th>
                                     <td>
-                                        <a href={'/docs/accordproject.html'}>Documentation</a>
+                                        <a href={'/docs/'}>Documentation</a>
                                     </td>
                                     <td>
                                         <a href={toGitHubRelease(latestVersion)}>Release Notes</a>
@@ -59,7 +59,7 @@ function Versions() {
                                 <tr>
                                     <th>unstable</th>
                                     <td>
-                                        <a href={'/docs/next/accordproject.html'}>Documentation</a>
+                                        <a href={'/docs/'}>Documentation</a>
                                     </td>
                                     <td>
                                         <a href={ciceroGitHub}>Release Notes</a>
@@ -77,7 +77,7 @@ function Versions() {
                                             <tr>
                                                 <th>{version}</th>
                                                 <td>
-                                                    <a href={`/docs/${version}/accordproject.html`}>Documentation</a>
+                                                    <a href={`/docs/${version}/`}>Documentation</a>
                                                 </td>
                                                 <td>
                                                     <a href={toGitHubRelease(version)}>Release Notes</a>
