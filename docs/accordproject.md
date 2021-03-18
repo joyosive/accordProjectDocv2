@@ -47,7 +47,7 @@ There is a welcoming community on Slack that is eager to help. [Join our Communi
 
 If you are new to Accord Project, you may want to first read about the notion of [Smart Legal Contracts](accordproject-slc) and about [Accord Project Templates](accordproject-template). We also recommend taking the [Online Tour](accordproject-tour).
 
-To start using Accord Project templates, follow the [Install Cicero](https://docs.accordproject.org/docs/next/started-installation.html) instructions in the _Getting Started_ Section of the documentation.
+To start using Accord Project templates, follow the [Install Cicero](https://docs.accordproject.org/docs/started-installation) instructions in the _Getting Started_ Section of the documentation.
 
 You can find in-depth guides for the different components of a template in the _Template Guides_ part of the documentation:
 - Learn how to write contract or template text in the [Markdown Text](markup-preliminaries) Guide
